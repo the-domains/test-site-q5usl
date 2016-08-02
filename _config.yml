@@ -1,4 +1,3 @@
-layout_spectrum: 0.04213151754811406
 typography_spectrum: 0.6473896089009941
 color:
   brandStrength: 0.3567064958624542
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.04213151754811406
 name: Test Site
+title: Neki naslov
 description: Neki podnaslov
